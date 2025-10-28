@@ -246,18 +246,6 @@ sudo mv ask /usr/local/bin/
 **Input example**:
 
 ```bash
-ask "赵达功更接近兵勇还是贼匪" --voice Ting-Ting --model erwan2/DeepSeek-R1-Distill-Qwen-1.5B
-```
-
-**Output example**:
-
-```
-赵达功更接近“贼匪”一类，不是“兵勇”的正面硬拼，而是“贼匪”的镰刀手法—— 避实击虚、暗中割裂、借力杀人。
-```
-
-**Input example**:
-
-```bash
 ask "ラインハルトのペンダントって何が入ってるの" --voice Kyoko --model schroneko/gemma-2-2b-jpn-it
 ```
 
